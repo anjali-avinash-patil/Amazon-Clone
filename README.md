@@ -3,3 +3,9 @@ This is a clone of the popular e-commerce website,Amazon. The Amazon clone proje
 In this clone project we have used from bottom to top level HTML & CSS.
 This clone project title is Amazon clone.
 This clone use basically basic tags,link tags,images tags & HTML classes & id's etc.
+
+amazonclone.html
+In this file include the clone html code.
+
+amazon.css
+In this file include the clone css code.
