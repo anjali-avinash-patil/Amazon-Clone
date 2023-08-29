@@ -9,6 +9,7 @@ In this file include the clone html code.
 
 amazon.css
 In this file include the clone css code.
+>>Note : AITP vita
 
 
 
